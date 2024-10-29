@@ -1,0 +1,1 @@
+"# Insan Kaynaklari SQL Sorgulari" 
